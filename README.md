@@ -89,6 +89,13 @@ High-margin categories were responsible for a disproportionate share of total pr
 - Certain categories contributed disproportionately to total profit due to stronger margin efficiency.
 - Comparing revenue share vs profit share provided better visibility into true performance drivers.
 
+## Recommendations
+Prioritize high-margin categories (e.g., Accessories, Gifts) through targeted promotions and better product placement to maximize profitability.
+Optimize product mix by increasing the share of categories where profit contribution exceeds revenue contribution.
+Investigate low-margin, high-revenue categories to identify pricing, discounting, or cost inefficiencies.
+Analyze month-over-month margin trends to determine drivers behind recent profitability improvements.
+Expand analysis to customer-level insights (repeat rate, average order value, category affinity) to support long-term revenue growth.
+
 ---
 
 ## KPIs Evaluated
