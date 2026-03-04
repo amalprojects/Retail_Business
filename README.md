@@ -30,25 +30,56 @@ The analysis focuses on revenue and profitability metrics derived from these fie
 ---
 
 ## Analysis Performed
+## KPIs Analyzed
 
-### 1. Revenue Contribution Analysis
-- Calculated total revenue by month and category
-- Measured revenue contribution (%) to overall sales
-- Identified high-revenue periods and categories
+- **Total Net Sales**
+- **Total Gross Profit**
+- **Gross Profit Margin (%)**
+- **Revenue Contribution (%)**
+- **Profit Contribution (%)**
+- **Monthly Revenue & Profit Trend**
 
-### 2. Profit Contribution Analysis
-- Calculated total profit by month and category
-- Compared profit contribution vs revenue contribution
-- Identified categories driving overall profitability
+---
 
-### 3. Profit Margin Trend Analysis
-- Analyzed monthly gross profit margin trends
-- Evaluated whether revenue growth aligned with margin growth
+## Analysis & Findings
 
-### 4. Category-Level Performance
-- Compared high-revenue vs high-margin categories
-- Identified categories with strong margin efficiency
 
+### 1. Monthly Revenue & Profit Trend
+
+<img width="1324" height="422" alt="Screenshot 2026-03-04 at 11 22 09 PM" src="https://github.com/user-attachments/assets/08b4f0c7-9a0c-4fa9-9b91-f152a4964dc0" />
+
+- Revenue contribution increased significantly in October (22.48%) and November (21.81%) compared to the June–September average (~13%).
+- Profit contribution also increased in October (23.11%) and November (22.38%).
+- Gross profit margin improved from ~54% (June–September average) to ~57% in October and November.
+
+**Insight:**  
+
+Revenue growth in the later months was accompanied by margin expansion, indicating profitable seasonal growth rather than discount-driven sales.
+
+---
+
+### 2. Category-Level Revenue & Profit Contribution
+
+<img width="1299" height="316" alt="Screenshot 2026-03-04 at 11 21 55 PM" src="https://github.com/user-attachments/assets/66e56886-a380-4541-a1a7-b4a37a5abdd8" />
+
+- Accessories contributed approximately **25%+ of total profit**, making it the highest profit-driving category.
+- Gift Packs also showed strong profit contribution during peak months.
+- Some categories generated high revenue but relatively lower profit contribution, indicating lower margin efficiency.
+
+**Insight:**  
+Accessories and Gift Packs were the strongest performing categories in terms of both profit contribution and margin efficiency.
+
+---
+
+### 3. Revenue Share vs Profit Share Comparison
+
+Revenue and profit contribution were compared to identify true performance drivers:
+
+- Categories where **profit share exceeded revenue share** demonstrated higher-than-average margins.
+- Categories where **revenue share exceeded profit share** indicated relatively lower margins.
+
+**Insight:**  
+High-margin categories were responsible for a disproportionate share of total profit, highlighting the importance of product mix in driving profitability.
 ---
 
 ## Key Insights
